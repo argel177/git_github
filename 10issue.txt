@@ -1,0 +1,3 @@
+a melhor forma de fazer branch é por Issue
+pois ela ja cria uma branch e identifica o autor 
+facilitando a verificação de quem fez...
